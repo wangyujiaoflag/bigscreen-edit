@@ -11,3 +11,10 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 ```bash
 npm init vite@latest . --template vue-ts
 ```
+
+### 依赖
+
+- [canvas 库 fabricjs](http://fabricjs.com/articles/)
+- [拖拽库 vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)
+- [icon 图标](https://iconify.design/getting-started/)
+- [vue3 ui 库 element-plus](https://element-plus.org/zh-CN/guide/installation.html)
